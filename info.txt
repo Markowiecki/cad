@@ -1,5 +1,7 @@
 Basic info
-
+2017-11-03 ------------ CSS - Clients logo fix ------------
+/public_html/wp-content/themes/scalia/
+style.css - line 3479
 2017-11-02 ------------ En menu fix ------------
 /public_html/wp-content/plugins/sitepress-multilingual-cms/res/js/
 icl-admin-notifier.js - line 57
